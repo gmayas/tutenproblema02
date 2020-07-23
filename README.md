@@ -5,7 +5,7 @@ Este proyecto fue creado con Angular 9.1.3, Node: 13.8.0
 
 Al momento de descargar este proyecto, instale las dependencia con npm install, para ejecutar npm run dev, la apliacion corre en: http://localhost:5000/
 
-## Para ver el manual de operación.
+## Para ver el manual de operación y realizar pruebas.
 
-https://drive.google.com/open?id=1roP7ig2DBpnwYt4_E3Ix1JfDWAWmH1WK
+https://docs.google.com/document/d/1i0nvXeB5suO7OLjpv60pdHCEGvFIxGEr_C7_tzRNp5s/edit?usp=sharing
 
